@@ -30,7 +30,7 @@
   },
   "WriteCapacity": {
     "Min": 1,
-    "Max": 100,
+    "Max": 400,
     "Increment": {
       "When": {
         "UtilisationIsAbovePercent": 75,
